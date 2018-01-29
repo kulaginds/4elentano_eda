@@ -1,0 +1,11 @@
+{
+    "channel": null,
+    "timestamp": null,
+    "webhook_url": "",
+    "slack_token": "",
+    "telegram_token": "",
+    "who_will_eat": "Кто в Челентано лайкай",
+    "how_much_eat": "Сегодня будет кушать %s человек",
+    "quiz_channel": "",
+    "telegram_chat": ""
+}
